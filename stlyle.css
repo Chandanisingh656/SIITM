@@ -1,0 +1,24 @@
+h2{
+    color:blue;
+    font-style: italic;
+}
+
+#para5{
+    font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif 
+}
+
+.para{
+    background-color: blueviolet;
+    color:aqua
+}
+
+p{
+    color:aquamarine;
+}
+*{
+    background-color: rgb(129, 224, 224);
+}
+
+
+
+
